@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Unroll Hope//NMDP Berkeley Pop-up//EN
+PRODID:-//NMDP Berkeley//NMDP Berkeley Pop-up//EN
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:nmdp-berkeley-20260921@unrollhope.site
