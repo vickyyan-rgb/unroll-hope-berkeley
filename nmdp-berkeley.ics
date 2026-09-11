@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Unroll Hope//NMDP Berkeley Pop-up//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:nmdp-berkeley-20260921@unrollhope.site
+DTSTAMP:20260911T083500Z
+DTSTART:20260921T170000Z
+DTEND:20260921T190000Z
+SUMMARY:NMDP Registry Pop-up at UC Berkeley
+DESCRIPTION:Meet Berkeley MDes student volunteers and learn how to join the NMDP Registry.
+LOCATION:Outside Amazon Hub Locker\, 2495 Bancroft Way\, Berkeley\, CA 94720
+END:VEVENT
+END:VCALENDAR
